@@ -1,0 +1,146 @@
+{
+  "Navbar": {
+    "home": "Početna",
+    "store": "Trgovina",
+    "vote": "Glasaj",
+    "blog": "Blog",
+    "rules": "Pravila",
+    "wiki": "Wiki",
+    "login": "Prijava",
+    "online": "Online"
+  },
+  "Hero": {
+    "playNow": "Igraj sada",
+    "discord": "Discord",
+    "online": "Online"
+  },
+  "NotFound": {
+    "404": "404",
+    "pageNotFound": "Stranica nije pronađena",
+    "sorry": "Nažalost, stranica koju tražite ne postoji ili je premještena.",
+    "goHome": "Povratak na početnu"
+  },
+  "Login": {
+    "toStartShopping": "Za početak kupnje",
+    "shoppingAs": "Kupujete kao {name}",
+    "javaEdition": "Java izdanje",
+    "bedrockEdition": "Bedrock izdanje",
+    "enterUsername": "Unesite korisničko ime",
+    "discordIdOptional": "Discord ID (nije obavezno)",
+    "login": "Prijava",
+    "loginToShop": "Prijavite se za kupnju",
+    "usernameRequired": "Korisničko ime je obavezno",
+    "pleaseEnterUsername": "Molimo unesite korisničko ime",
+    "error": "Greška!",
+    "errorOccurred": "Došlo je do pogreške"
+  },
+  "Join": {
+    "joinUsingIp": "Pridruži se koristeći IP adresu",
+    "useIpBelow": "Koristite IP adresu ispod za pridruživanje serveru:",
+    "javaIp": "Java IP",
+    "bedrockIp": "Bedrock IP",
+    "bedrockPort": "Bedrock Port",
+    "close": "Zatvori",
+    "joinServer": "Pridruži se serveru",
+    "joinToGetRewards": "Pridruži se serveru kako bi dobio nagrade!"
+  },
+  "Store": {
+    "featuredPackages": "Istaknuti paketi",
+    "recentPurchases": "Nedavne kupnje",
+    "welcome": "Dobrodošli u {server_name} trgovinu",
+    "description": "Ovdje možete kupiti coine, rankove i još mnogo toga za {server_name} Minecraft server! Započnite pregledom kategorija, odaberite ono što vam se sviđa i kliknite za pregled proizvoda. Dodajte artikle u košaricu i završite kupnju kada ste spremni. Ako imate pitanja, pridružite se našem Discord serveru.",
+    "paymentMethodsTitle": "Koje metode plaćanja prihvaćate?",
+    "paymentMethods": "Prihvaćamo različite metode plaćanja, uključujući PayPal, kreditne kartice i druge.",
+    "addToCart": "Dodaj u košaricu",
+    "productAdded": "Proizvod dodan!",
+    "checkout": "Plaćanje",
+    "total": "Ukupno: {amount}",
+    "buyAgain": "Kupi ponovno",
+    "ranksComparison": "Usporedba rankova",
+    "compareRanksAndFeatures": "Usporedite rankove i njihove pogodnosti",
+    "communityGoal": "Cilj zajednice",
+    "topDonator": "Najveći donator",
+    "needHelp": "Trebaš pomoć?",
+    "joinDiscordForHelp": "Pridruži se našem Discord serveru za pomoć oko kupnje.",
+    "joinDiscord": "Pridruži se Discordu",
+    "error": "Greška!",
+    "all": ""
+  },
+  "Sale": {
+    "onlyRemaining": "Preostalo je još samo <strong>{time}</strong>!",
+    "saleEnded": "Akcija je završila"
+  },
+  "Basket": {
+    "total": "Ukupno: {amount}",
+    "checkout": "Plaćanje"
+  },
+  "Completed": {
+    "purchaseCompleted": "Vaša kupnja je uspješno završena!",
+    "useButtonToReturn": "Koristite gumb ispod za povratak u trgovinu",
+    "backToStore": "Povratak u trgovinu"
+  },
+  "Vote": {
+    "howToVote": "Kako glasati",
+    "toEarnRewards": "Kako biste dobili nagrade, glasajte za {server_name} na sljedećim stranicama:",
+    "step1": "Kliknite na link za glasanje iznad.",
+    "step2": "Unesite svoje korisničko ime i kliknite na gumb za glasanje.",
+    "step3": "Pričekajte potvrdu u igri da je vaš glas zabilježen.",
+    "thankYou": "Hvala na glasanju!",
+    "yourVoteHelps": "Vaš glas pomaže rastu servera i zajednice. Hvala na podršci! Nagrade ćete dobiti u igri ubrzo nakon glasanja."
+  },
+  "Rules": {
+    "title": "Pravila",
+    "description": "Molimo pročitajte i poštujte sva pravila kako bi iskustvo bilo sigurno i ugodno za sve.",
+    "joinServer": "Pridruži se serveru",
+    "joinToGetRewards": "Pridruži se serveru kako bi dobio nagrade!",
+    "serverRules": "Pravila servera",
+    "discordRules": "Discord pravila",
+    "noCheating": "Zabranjeno varanje",
+    "noCheatingDesc": "Korištenje nedozvoljenih modifikacija, hackova ili exploita strogo je zabranjeno.",
+    "respectOthers": "Poštujte druge",
+    "respectOthersDesc": "Poštujte sve igrače i osoblje. Uznemiravanje, diskriminacija ili govor mržnje nisu dopušteni.",
+    "noGriefing": "Zabranjen grief",
+    "noGriefingDesc": "Nemojte uništavati, krasti ili mijenjati tuđe građevine ili stvari bez dopuštenja.",
+    "noAdvertising": "Zabranjeno oglašavanje",
+    "noAdvertisingDesc": "Oglašavanje drugih servera ili usluga nije dopušteno.",
+    "keepChatAppropriate": "Primjeren chat",
+    "keepChatAppropriateDesc": "Izbjegavajte spam, pretjerano psovanje ili neprimjeren sadržaj u chatu.",
+    "followDiscordTos": "Poštujte Discord TOS",
+    "followDiscordTosDesc": "Svi članovi moraju se pridržavati Discordovih uvjeta korištenja i smjernica zajednice.",
+    "noSpamming": "Zabranjen spam",
+    "noSpammingDesc": "Izbjegavajte slanje ponavljajućih poruka, emojija ili linkova.",
+    "respectPrivacy": "Poštujte privatnost",
+    "respectPrivacyDesc": "Ne dijelite osobne podatke sebe ili drugih.",
+    "noNsfwContent": "Zabranjen NSFW sadržaj",
+    "noNsfwContentDesc": "Dijeljenje neprimjerenog ili NSFW sadržaja strogo je zabranjeno.",
+    "useChannelsProperly": "Koristite kanale pravilno",
+    "useChannelsProperlyDesc": "Razgovarajte o temama koje odgovaraju namjeni kanala."
+  },
+  "Blog": {
+    "welcome": "Dobrodošli na blog",
+    "discover": "Otkrijte najnovije vijesti, ažuriranja i priče iz naše zajednice.",
+    "latest": "Najnovije",
+    "readArticle": "Pročitaj članak",
+    "needHelp": "Trebaš pomoć?",
+    "joinDiscordHelp": "Pridruži se našem Discord serveru za pomoć oko kupnje.",
+    "joinDiscord": "Pridruži se Discordu",
+    "search": "Pretraži",
+    "noPostsFound": "Nema pronađenih blog objava.",
+    "needHelpSomething": "Trebaš pomoć s nečim?",
+    "askTeam": "Pridruži se našem Discord serveru i zatraži pomoć od tima.",
+    "moreFromUs": "Više od nas",
+    "exploreTopPosts": "Pogledajte neke od naših najboljih objava, posebno odabranih za vas! Podijelite svoje mišljenje.",
+    "readMore": "Pročitaj više",
+    "recommendedBlogs": "Preporučene objave",
+    "posted": "Objavljeno",
+    "backToBlog": "Povratak na blog",
+    "by": "Autor: {name}"
+  },
+  "Categories": {
+    "more": "Više",
+    "less": "Manje"
+  },
+  "Errors": {
+    "error": "Greška!"
+  }
+}
